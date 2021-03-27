@@ -4,11 +4,11 @@
 
 *Пример 1:*
 
-![Пример 1](examples/task1.png)
+![Пример 1](task1/example1.png)
 
 *Выполнение 1:*
 
-![Выполнение 1](results/task1.png)
+![Выполнение 1](task1/result1.png)
 
 # Упражнение 2
 
@@ -16,11 +16,11 @@
 
 *Пример 2:*
 
-![Пример 2](examples/task2.png)
+![Пример 2](task2/example2.png)
 
 *Выполнение 2:*
 
-![Выполнение 2](results/task2.png)
+![Выполнение 2](task2/result2.png)
 
 # Упражнение 3
 
@@ -28,11 +28,11 @@
 
 *Пример 3:*
 
-![Пример 3](examples/task3.png)
+![Пример 3](task3/example3.png)
 
 *Выполнение 3:*
 
-![Выполнение 3](results/task3.png)
+![Выполнение 3](task3/result3.png)
 
 # Упражнение 4
 
@@ -40,8 +40,8 @@
 
 *Пример 4:*
 
-![Пример 4](examples/task4.png)
+![Пример 4](task4/example4.jpg)
 
 *Выполнение 4:*
 
-![Выполнение 4](results/task4.png)
+![Выполнение 4](task4/result4.png)
